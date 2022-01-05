@@ -15,6 +15,7 @@
     - Identify the risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. 
     - Identification of such applicants using EDA is the aim of this case study.
 - What is the background of your project?
+    - Python is used for EDA. JupyterNotebook is used as editor adn IPythn NoteBook is checked in as souce code.
 - What is the business probem that your project is trying to solve?
     - Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss).  
     - In other words, borrowers who default cause the largest amount of loss to the lenders.
@@ -41,9 +42,12 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- numpy               1.21.4
+- openpyxl            3.0.9
+- packaging           21.2
+- pandas              1.3.4
+- seaborn             0.11.2
+- matplotlib          3.5.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
