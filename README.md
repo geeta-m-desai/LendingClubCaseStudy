@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending Club Case Study 
 
 
 ## Table of Contents
@@ -12,14 +12,27 @@
 
 ## General Information
 - Provide general information about your project here.
+    - Identify the risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. 
+    - Identification of such applicants using EDA is the aim of this case study.
 - What is the background of your project?
 - What is the business probem that your project is trying to solve?
+    - Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss).  
+    - In other words, borrowers who default cause the largest amount of loss to the lenders.
+     -We need to figure out the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilize this knowledge for its portfolio and risk assessment. 
+
 - What is the dataset that is being used?
+    - Loans data set is used
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - Conclusion 1 from the analysis
+    -Based on the above EDA performed the driving factors (or driver variables) behind loan default can be 
+       Employee length,
+       Installment,
+       Total received late fee,
+       Total payment,
+       Home ownership
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
